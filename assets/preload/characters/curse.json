@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-12
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "Curse Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Curse Left"
+		},
+		{
+			"offsets": [
+				-82,
+				-100
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Curse Down"
+		},
+		{
+			"offsets": [
+				23,
+				30
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Curse Up"
+		},
+		{
+			"offsets": [
+				-128,
+				-63
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Curse Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/curse_nervous",
+	"position": [
+		20,
+		100
+	],
+	"healthicon": "curse-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		59,
+		113
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

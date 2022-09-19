@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				519
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				519
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				519
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				518
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				519
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "singLEFT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FatalError/fatal-error-sonic",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "icon-fatal-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		-600,
+		-750
+	],
+	"sing_duration": 4,
+	"scale": 4.00000000000001
+}

@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-200,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cagaste",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "creepysmile"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-200,
+				-230
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "creepystare",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-306,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-171
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TailsDoll/tailsdoll_p2",
+	"position": [
+		350,
+		300
+	],
+	"healthicon": "tailsp2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		0
+	],
+	"camera_position": [
+		-100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 2.15
+}

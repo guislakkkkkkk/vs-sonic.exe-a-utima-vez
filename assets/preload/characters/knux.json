@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				84,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "knuckles idle"
+		},
+		{
+			"offsets": [
+				55,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "knuckles up"
+		},
+		{
+			"offsets": [
+				150,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "knuckles down"
+		},
+		{
+			"offsets": [
+				147,
+				-62
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "knuckles left"
+		},
+		{
+			"offsets": [
+				210,
+				-44
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "knuckles right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic.Exe/Nudillos",
+	"position": [
+		700,
+		-80
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		0
+	],
+	"camera_position": [
+		-600,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

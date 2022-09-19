@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HuevosQuemados.png">
+<SubTexture name="idle0000" x="0" y="0" width="82" height="60" frameX="-7" frameY="-10" frameWidth="90" frameHeight="70" />
+<SubTexture name="idle0001" x="82" y="0" width="86" height="60" frameX="-3" frameY="-10" frameWidth="90" frameHeight="70" />
+<SubTexture name="risa0000" x="0" y="60" width="82" height="66" frameX="-7" frameY="-4" frameWidth="90" frameHeight="70" />
+<SubTexture name="risa0001" x="82" y="60" width="86" height="64" frameX="-3" frameY="-6" frameWidth="90" frameHeight="70" />
+<SubTexture name="left0000" x="0" y="126" width="82" height="60" frameX="-7" frameY="-10" frameWidth="90" frameHeight="70" />
+<SubTexture name="left0001" x="82" y="126" width="86" height="60" frameX="-3" frameY="-10" frameWidth="90" frameHeight="70" />
+<SubTexture name="down0000" x="0" y="186" width="86" height="59" frameX="-3" frameY="-11" frameWidth="90" frameHeight="70" />
+<SubTexture name="down0001" x="86" y="186" width="82" height="58" frameX="-7" frameY="-12" frameWidth="90" frameHeight="70" />
+<SubTexture name="up0000" x="0" y="245" width="86" height="62" frameX="-3" frameY="-8" frameWidth="90" frameHeight="70" />
+<SubTexture name="up0001" x="86" y="245" width="82" height="64" frameX="-7" frameY="-6" frameWidth="90" frameHeight="70" />
+<SubTexture name="right0000" x="0" y="309" width="82" height="60" frameX="-7" frameY="-10" frameWidth="90" frameHeight="70" />
+<SubTexture name="right0001" x="82" y="309" width="86" height="60" frameX="-3" frameY="-10" frameWidth="90" frameHeight="70" />
+</TextureAtlas>

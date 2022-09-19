@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lord x fate down"
+		},
+		{
+			"offsets": [
+				26,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lord x fate up"
+		},
+		{
+			"offsets": [
+				-39,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lord x fate right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lord x fate idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lord x fate left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LordX/lord_x_fate",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "LordXEncore",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		80,
+		94
+	],
+	"camera_position": [
+		20,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

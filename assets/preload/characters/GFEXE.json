@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				-189
+			],
+			"anim": "Hey",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-258,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-295,
+				-275
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NewPhase2Sonic Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-375,
+				-145
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NewPhase2Sonic Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-157,
+				-347
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				-298
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NewPhase2Sonic Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				-189
+			],
+			"anim": "risa",
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GF/exe_gf_assets",
+	"position": [
+		-240,
+		-210
+	],
+	"healthicon": "sonic2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		400,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

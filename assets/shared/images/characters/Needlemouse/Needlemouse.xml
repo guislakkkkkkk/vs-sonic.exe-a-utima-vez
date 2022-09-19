@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Needlemouse.png">
+  <SubTexture name="Needlemouse_RIGHT0002" x="0" y="0"  width="274.5" height="239.5" frameX="-179" frameY="-128.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0004" x="0" y="239.5"  width="274" height="233" frameX="-179" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0000" x="274.5" y="0" width="225.5" height="272" rotated="true"  frameX="-179" frameY="-142.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0000" x="0" y="472.5"  width="246" height="241" frameX="-77" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0006" x="246" y="472.5" width="260" height="226.5" rotated="true"  frameX="-178.5" frameY="-107.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0004" x="274" y="272" width="304" height="193.5" rotated="true"  frameX="-183.5" frameY="-64" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0008" x="500" y="0" width="225" height="257.5" rotated="true"  frameX="-180" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0002" x="246" y="699" width="315.5" height="181.5" rotated="true"  frameX="-178" frameY="-52.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0008" x="506" y="465.5" width="279.5" height="204" rotated="true"  frameX="-183.5" frameY="-89.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0002" x="0" y="713.5"  width="230" height="239" frameX="-91.5" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0006" x="561.5" y="669.5"  width="253" height="214" frameX="-183" frameY="-155" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0000" x="578" y="257.5" width="322.5" height="164.5" rotated="true"  frameX="-175.5" frameY="-46" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0004" x="230" y="880.5"  width="222" height="238" frameX="-100.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0006" x="725" y="0"  width="205.5" height="248.5" frameX="-138" frameY="-119.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0008" x="452" y="883.5"  width="211.5" height="237" frameX="-133.5" frameY="-130.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0008" x="663.5" y="883.5"  width="210.5" height="237.5" frameX="-112.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0004" x="785.5" y="422"  width="216.5" height="224.5" frameX="-132" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0002" x="814.5" y="646.5"  width="220.5" height="216.5" frameX="-129.5" frameY="-152" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0006" x="874" y="863"  width="196.5" height="241" frameX="-124" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0000" x="930.5" y="0" width="197.5" height="220.5" rotated="true"  frameX="-130" frameY="-171" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0010" x="0" y="952.5" width="224" height="154.5" rotated="true"  frameX="-179.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0008" x="900.5" y="248.5" width="223" height="154.5" rotated="true"  frameX="-179.5" frameY="-145.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0012" x="0" y="1107" width="226" height="151.5" rotated="true"  frameX="-179.5" frameY="-142.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0016" x="874" y="1104" width="227.5" height="150.5" rotated="true"  frameX="-180" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0014" x="226" y="1120.5" width="227.5" height="149" rotated="true"  frameX="-179.5" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0018" x="453.5" y="1121" width="227" height="147.5" rotated="true"  frameX="-180" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0000" x="1002" y="403"  width="147.5" height="226.5" frameX="-179" frameY="-141.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0006" x="1035" y="629.5"  width="149.5" height="220.5" frameX="-179.5" frameY="-148" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0002" x="1070.5" y="850"  width="147.5" height="222.5" frameX="-178.5" frameY="-146" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0004" x="1128" y="0"  width="150" height="217" frameX="-179" frameY="-151" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0001" x="930.5" y="0" width="197.5" height="220.5" rotated="true"  frameX="-130" frameY="-171" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0003" x="814.5" y="646.5"  width="220.5" height="216.5" frameX="-129.5" frameY="-152" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0005" x="785.5" y="422"  width="216.5" height="224.5" frameX="-132" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0007" x="725" y="0"  width="205.5" height="248.5" frameX="-138" frameY="-119.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_DOWN0009" x="452" y="883.5"  width="211.5" height="237" frameX="-133.5" frameY="-130.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0001" x="1002" y="403"  width="147.5" height="226.5" frameX="-179" frameY="-141.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0003" x="1070.5" y="850"  width="147.5" height="222.5" frameX="-178.5" frameY="-146" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0005" x="1128" y="0"  width="150" height="217" frameX="-179" frameY="-151" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0007" x="1035" y="629.5"  width="149.5" height="220.5" frameX="-179.5" frameY="-148" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0009" x="900.5" y="248.5" width="223" height="154.5" rotated="true"  frameX="-179.5" frameY="-145.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0011" x="0" y="952.5" width="224" height="154.5" rotated="true"  frameX="-179.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0013" x="0" y="1107" width="226" height="151.5" rotated="true"  frameX="-179.5" frameY="-142.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0015" x="226" y="1120.5" width="227.5" height="149" rotated="true"  frameX="-179.5" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0017" x="874" y="1104" width="227.5" height="150.5" rotated="true"  frameX="-180" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_IDLE0019" x="453.5" y="1121" width="227" height="147.5" rotated="true"  frameX="-180" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0001" x="0" y="472.5"  width="246" height="241" frameX="-77" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0003" x="0" y="713.5"  width="230" height="239" frameX="-91.5" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0005" x="230" y="880.5"  width="222" height="238" frameX="-100.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0007" x="874" y="863"  width="196.5" height="241" frameX="-124" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_LEFT0009" x="663.5" y="883.5"  width="210.5" height="237.5" frameX="-112.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0001" x="274.5" y="0" width="225.5" height="272" rotated="true"  frameX="-179" frameY="-142.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0003" x="0" y="0"  width="274.5" height="239.5" frameX="-179" frameY="-128.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0005" x="0" y="239.5"  width="274" height="233" frameX="-179" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0007" x="561.5" y="669.5"  width="253" height="214" frameX="-183" frameY="-155" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_RIGHT0009" x="500" y="0" width="225" height="257.5" rotated="true"  frameX="-180" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0001" x="578" y="257.5" width="322.5" height="164.5" rotated="true"  frameX="-175.5" frameY="-46" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0003" x="246" y="699" width="315.5" height="181.5" rotated="true"  frameX="-178" frameY="-52.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0005" x="274" y="272" width="304" height="193.5" rotated="true"  frameX="-183.5" frameY="-64" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0007" x="246" y="472.5" width="260" height="226.5" rotated="true"  frameX="-178.5" frameY="-107.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="Needlemouse_UP0009" x="506" y="465.5" width="279.5" height="204" rotated="true"  frameX="-183.5" frameY="-89.5" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

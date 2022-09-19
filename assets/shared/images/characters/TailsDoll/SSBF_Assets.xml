@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="SSBF_Assets.png">
+  <SubTexture name="SSBF LEFT instance 10000" x="0" y="0"  width="181" height="241" frameX="-145.5" frameY="-128" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10002" x="181" y="0"  width="177.5" height="240" frameX="-148.5" frameY="-129.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10000" x="0" y="241" width="238.5" height="144.5" rotated="true"  frameX="-178" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10000" x="358.5" y="0"  width="143" height="238" frameX="-178" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10004" x="0" y="385.5" width="236" height="175.5" rotated="true"  frameX="-150.5" frameY="-133" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10002" x="238.5" y="240" width="235.5" height="144.5" rotated="true"  frameX="-178" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10010" x="236" y="385.5" width="234.5" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10006" x="501.5" y="0"  width="173.5" height="234" frameX="-152.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10008" x="501.5" y="234"  width="173" height="234" frameX="-153" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10012" x="0" y="561" width="234" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10014" x="234" y="561" width="234" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10018" x="470.5" y="468"  width="171.5" height="234" frameX="-154.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10000" x="675" y="0"  width="176.5" height="234" frameX="-146.5" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10002" x="674.5" y="234"  width="145.5" height="234" frameX="-178" frameY="-133.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10016" x="642" y="468"  width="172.5" height="233.5" frameX="-154" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10004" x="0" y="733.5" width="233.5" height="144.5" rotated="true"  frameX="-178" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10002" x="468" y="702" width="233" height="172.5" rotated="true"  frameX="-150" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10004" x="851.5" y="0"  width="145.5" height="232.5" frameX="-178" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10006" x="851.5" y="232.5"  width="145" height="231.5" frameX="-178" frameY="-136" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10006" x="701" y="701.5" width="230.5" height="146" rotated="true"  frameX="-178" frameY="-137" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10008" x="814.5" y="468"  width="146.5" height="230" frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10010" x="0" y="878" width="230" height="146.5" rotated="true"  frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10004" x="233.5" y="733.5" width="229.5" height="170.5" rotated="true"  frameX="-152" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10012" x="463" y="874.5" width="229.5" height="146.5" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10014" x="692.5" y="874.5" width="229.5" height="146.5" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10008" x="997" y="0"  width="145.5" height="229.5" frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10010" x="997" y="229.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10012" x="996.5" y="458.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10014" x="961" y="687.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10016" x="0" y="1024.5" width="229" height="146" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10018" x="229" y="1024.5" width="229" height="145.5" rotated="true"  frameX="-178" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10020" x="458" y="1021" width="228.5" height="146" rotated="true"  frameX="-178" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10000" x="922" y="916.5"  width="170.5" height="228" frameX="-154.5" frameY="-140" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10018" x="1142.5" y="0"  width="171.5" height="228" frameX="-152.5" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10008" x="1142.5" y="228"  width="168" height="227.5" frameX="-154" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10006" x="1142.5" y="455.5"  width="168.5" height="227" frameX="-153.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10010" x="1142" y="682.5"  width="167.5" height="227" frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10012" x="1092.5" y="916.5"  width="168" height="227" frameX="-154" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10016" x="0" y="1170.5" width="227" height="167.5" rotated="true"  frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10018" x="227" y="1170.5" width="227" height="167" rotated="true"  frameX="-155" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10020" x="454" y="1170" width="227" height="167" rotated="true"  frameX="-155" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10022" x="681" y="1167" width="227" height="167.5" rotated="true"  frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10002" x="908" y="1144.5" width="224.5" height="170.5" rotated="true"  frameX="-154" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10016" x="1314" y="0"  width="171.5" height="224" frameX="-152.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10006" x="1260.5" y="909.5" width="224" height="154" rotated="true"  frameX="-171.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10008" x="1260.5" y="1063.5" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10010" x="1309.5" y="682.5"  width="155.5" height="224" frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10012" x="1310.5" y="228"  width="156" height="224" frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10014" x="1311" y="452"  width="156" height="224" frameX="-170" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10016" x="0" y="1338" width="224" height="156" rotated="true"  frameX="-170" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10018" x="224" y="1338" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10020" x="448" y="1337.5" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10004" x="672" y="1337" width="222" height="152.5" rotated="true"  frameX="-173" frameY="-146.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10002" x="894" y="1334.5" width="217.5" height="150.5" rotated="true"  frameX="-175" frameY="-151" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10014" x="1111.5" y="1315" width="216.5" height="171" rotated="true"  frameX="-153.5" frameY="-152.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10006" x="1328" y="1219"  width="149" height="216.5" frameX="-172" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10008" x="1485.5" y="0"  width="150" height="216" frameX="-171" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10010" x="1484.5" y="224"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10012" x="1484.5" y="440"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10014" x="1484.5" y="656"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10016" x="1484.5" y="872"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10018" x="1484.5" y="1088"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10012" x="0" y="1494" width="215.5" height="156" rotated="true"  frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10016" x="215.5" y="1494" width="215.5" height="155.5" rotated="true"  frameX="-172" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10000" x="894" y="1485" width="215.5" height="148" rotated="true"  frameX="-177" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10018" x="431" y="1493.5" width="215" height="155.5" rotated="true"  frameX="-170" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10020" x="646" y="1493" width="215" height="155.5" rotated="true"  frameX="-170.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10010" x="1477" y="1304"  width="156.5" height="215" frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10014" x="1109.5" y="1486" width="215" height="156" rotated="true"  frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10018" x="1635.5" y="0"  width="155.5" height="215" frameX="-172" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10020" x="1635.5" y="215"  width="155.5" height="215" frameX="-172" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10004" x="0" y="1650" width="215" height="172" rotated="true"  frameX="-154.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10012" x="1635" y="430"  width="156" height="214.5" frameX="-169.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10014" x="1635" y="644.5"  width="155.5" height="214.5" frameX="-170" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10016" x="1635" y="859"  width="155" height="214.5" frameX="-170" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10006" x="1633.5" y="1304"  width="157.5" height="214.5" frameX="-171" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10008" x="1633.5" y="1518.5"  width="156.5" height="214.5" frameX="-171.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10004" x="1328" y="1435.5"  width="147.5" height="214.5" frameX="-173.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10010" x="1635" y="1073.5"  width="156" height="214" frameX="-169.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10008" x="1475.5" y="1519"  width="156.5" height="213.5" frameX="-169.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10006" x="215" y="1650" width="213" height="157" rotated="true"  frameX="-169.5" frameY="-155" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10004" x="428" y="1650" width="213" height="158" rotated="true"  frameX="-170.5" frameY="-156" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10004" x="641" y="1650" width="211" height="158" rotated="true"  frameX="-169.5" frameY="-157" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10012" x="852" y="1650" width="210.5" height="172" rotated="true"  frameX="-153.5" frameY="-158.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10002" x="1062.5" y="1650" width="210" height="159.5" rotated="true"  frameX="-169" frameY="-159" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10002" x="686.5" y="1021" width="210" height="145.5" rotated="true"  frameX="-175.5" frameY="-157.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10006" x="1791" y="0"  width="172.5" height="209" frameX="-155" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10002" x="1790" y="859"  width="160" height="208.5" frameX="-168" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10008" x="1791" y="209"  width="172.5" height="208.5" frameX="-155" frameY="-160.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10010" x="1791" y="1067.5"  width="172" height="208.5" frameX="-154.5" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10000" x="1791" y="417.5"  width="166.5" height="208" frameX="-165.5" frameY="-161.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10000" x="1790.5" y="644.5"  width="143.5" height="208" frameX="-177.5" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10000" x="1791" y="1276"  width="162" height="207.5" frameX="-167.5" frameY="-161.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10001" x="1791" y="417.5"  width="166.5" height="208" frameX="-165.5" frameY="-161.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10003" x="1790" y="859"  width="160" height="208.5" frameX="-168" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10005" x="641" y="1650" width="211" height="158" rotated="true"  frameX="-169.5" frameY="-157" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10007" x="215" y="1650" width="213" height="157" rotated="true"  frameX="-169.5" frameY="-155" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10009" x="1475.5" y="1519"  width="156.5" height="213.5" frameX="-169.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10011" x="1635" y="1073.5"  width="156" height="214" frameX="-169.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10013" x="1635" y="430"  width="156" height="214.5" frameX="-169.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10015" x="1635" y="644.5"  width="155.5" height="214.5" frameX="-170" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10017" x="1635" y="859"  width="155" height="214.5" frameX="-170" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWN instance 10021" x="646" y="1493" width="215" height="155.5" rotated="true"  frameX="-170.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10001" x="1791" y="1276"  width="162" height="207.5" frameX="-167.5" frameY="-161.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10003" x="1062.5" y="1650" width="210" height="159.5" rotated="true"  frameX="-169" frameY="-159" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10005" x="428" y="1650" width="213" height="158" rotated="true"  frameX="-170.5" frameY="-156" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10007" x="1633.5" y="1304"  width="157.5" height="214.5" frameX="-171" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10009" x="1633.5" y="1518.5"  width="156.5" height="214.5" frameX="-171.5" frameY="-154.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10011" x="1477" y="1304"  width="156.5" height="215" frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10013" x="0" y="1494" width="215.5" height="156" rotated="true"  frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10015" x="1109.5" y="1486" width="215" height="156" rotated="true"  frameX="-171.5" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10017" x="215.5" y="1494" width="215.5" height="155.5" rotated="true"  frameX="-172" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10019" x="1635.5" y="0"  width="155.5" height="215" frameX="-172" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF DOWNmiss instance 10021" x="1635.5" y="215"  width="155.5" height="215" frameX="-172" frameY="-154" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10001" x="922" y="916.5"  width="170.5" height="228" frameX="-154.5" frameY="-140" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10003" x="908" y="1144.5" width="224.5" height="170.5" rotated="true"  frameX="-154" frameY="-143.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10005" x="0" y="1650" width="215" height="172" rotated="true"  frameX="-154.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10007" x="1791" y="0"  width="172.5" height="209" frameX="-155" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10009" x="1791" y="209"  width="172.5" height="208.5" frameX="-155" frameY="-160.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10011" x="1791" y="1067.5"  width="172" height="208.5" frameX="-154.5" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10013" x="852" y="1650" width="210.5" height="172" rotated="true"  frameX="-153.5" frameY="-158.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10015" x="1111.5" y="1315" width="216.5" height="171" rotated="true"  frameX="-153.5" frameY="-152.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10017" x="1314" y="0"  width="171.5" height="224" frameX="-152.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF IDLE instance 10019" x="1142.5" y="0"  width="171.5" height="228" frameX="-152.5" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10001" x="0" y="0"  width="181" height="241" frameX="-145.5" frameY="-128" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10003" x="181" y="0"  width="177.5" height="240" frameX="-148.5" frameY="-129.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10005" x="0" y="385.5" width="236" height="175.5" rotated="true"  frameX="-150.5" frameY="-133" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10007" x="501.5" y="0"  width="173.5" height="234" frameX="-152.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10009" x="501.5" y="234"  width="173" height="234" frameX="-153" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10011" x="236" y="385.5" width="234.5" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10013" x="0" y="561" width="234" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10015" x="234" y="561" width="234" height="172.5" rotated="true"  frameX="-153.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10017" x="642" y="468"  width="172.5" height="233.5" frameX="-154" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFT instance 10019" x="470.5" y="468"  width="171.5" height="234" frameX="-154.5" frameY="-135" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10001" x="675" y="0"  width="176.5" height="234" frameX="-146.5" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10003" x="468" y="702" width="233" height="172.5" rotated="true"  frameX="-150" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10005" x="233.5" y="733.5" width="229.5" height="170.5" rotated="true"  frameX="-152" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10007" x="1142.5" y="455.5"  width="168.5" height="227" frameX="-153.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10009" x="1142.5" y="228"  width="168" height="227.5" frameX="-154" frameY="-140.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10011" x="1142" y="682.5"  width="167.5" height="227" frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10013" x="1092.5" y="916.5"  width="168" height="227" frameX="-154" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10014" x="1092.5" y="916.5"  width="168" height="227" frameX="-154" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10015" x="1092.5" y="916.5"  width="168" height="227" frameX="-154" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10017" x="0" y="1170.5" width="227" height="167.5" rotated="true"  frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10019" x="227" y="1170.5" width="227" height="167" rotated="true"  frameX="-155" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10021" x="454" y="1170" width="227" height="167" rotated="true"  frameX="-155" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF LEFTmiss instance 10023" x="681" y="1167" width="227" height="167.5" rotated="true"  frameX="-154.5" frameY="-141" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10001" x="1790.5" y="644.5"  width="143.5" height="208" frameX="-177.5" frameY="-160" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10003" x="686.5" y="1021" width="210" height="145.5" rotated="true"  frameX="-175.5" frameY="-157.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10005" x="1328" y="1435.5"  width="147.5" height="214.5" frameX="-173.5" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10007" x="1328" y="1219"  width="149" height="216.5" frameX="-172" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10009" x="1485.5" y="0"  width="150" height="216" frameX="-171" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10011" x="1484.5" y="224"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10013" x="1484.5" y="440"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10015" x="1484.5" y="656"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10017" x="1484.5" y="872"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHT instance 10019" x="1484.5" y="1088"  width="150.5" height="216" frameX="-170.5" frameY="-151.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10001" x="894" y="1485" width="215.5" height="148" rotated="true"  frameX="-177" frameY="-153.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10003" x="894" y="1334.5" width="217.5" height="150.5" rotated="true"  frameX="-175" frameY="-151" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10005" x="672" y="1337" width="222" height="152.5" rotated="true"  frameX="-173" frameY="-146.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10007" x="1260.5" y="909.5" width="224" height="154" rotated="true"  frameX="-171.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10009" x="1260.5" y="1063.5" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10011" x="1309.5" y="682.5"  width="155.5" height="224" frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10013" x="1310.5" y="228"  width="156" height="224" frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10015" x="1311" y="452"  width="156" height="224" frameX="-170" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10017" x="0" y="1338" width="224" height="156" rotated="true"  frameX="-170" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10019" x="224" y="1338" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF RIGHTmiss instance 10021" x="448" y="1337.5" width="224" height="155.5" rotated="true"  frameX="-170.5" frameY="-144.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10001" x="0" y="241" width="238.5" height="144.5" rotated="true"  frameX="-178" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10003" x="674.5" y="234"  width="145.5" height="234" frameX="-178" frameY="-133.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10005" x="851.5" y="0"  width="145.5" height="232.5" frameX="-178" frameY="-135.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10007" x="701" y="701.5" width="230.5" height="146" rotated="true"  frameX="-178" frameY="-137" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10009" x="814.5" y="468"  width="146.5" height="230" frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10011" x="0" y="878" width="230" height="146.5" rotated="true"  frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10013" x="463" y="874.5" width="229.5" height="146.5" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UP instance 10015" x="692.5" y="874.5" width="229.5" height="146.5" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10001" x="358.5" y="0"  width="143" height="238" frameX="-178" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10003" x="238.5" y="240" width="235.5" height="144.5" rotated="true"  frameX="-178" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10005" x="0" y="733.5" width="233.5" height="144.5" rotated="true"  frameX="-178" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10007" x="851.5" y="232.5"  width="145" height="231.5" frameX="-178" frameY="-136" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10009" x="997" y="0"  width="145.5" height="229.5" frameX="-177.5" frameY="-137.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10011" x="997" y="229.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10013" x="996.5" y="458.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10015" x="961" y="687.5"  width="145.5" height="229" frameX="-178" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10017" x="0" y="1024.5" width="229" height="146" rotated="true"  frameX="-177.5" frameY="-138" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10019" x="229" y="1024.5" width="229" height="145.5" rotated="true"  frameX="-178" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="SSBF UPmiss instance 10021" x="458" y="1021" width="228.5" height="146" rotated="true"  frameX="-178" frameY="-138.5" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "damfstatic",
+	"confirm_anim": "damfstatic",
+	"position": [
+		170,
+		70
+	],
+	"scale": 1,
+	"image": "SMMStatic"
+}

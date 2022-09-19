@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ycr idle",
+	"confirm_anim": "ycr idle",
+	"position": [
+		171,
+		90
+	],
+	"scale": 0.75,
+	"image": "ycr"
+}

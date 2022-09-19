@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "chaotix fake idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "chaotix fake up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chaotix fake right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chaotix fake left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "chaotix fake down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				379,
+				496
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "chaotix beast transformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/My-Horizon/faker_chaotix",
+	"position": [
+		470,
+		570
+	],
+	"healthicon": "chaotix-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		131
+	],
+	"camera_position": [
+		-910,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

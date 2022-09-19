@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"prey",
+			"furnace",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"prey-v2",
+			"furnace",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"fight-or-flight",
+			"starved",
+			[
+				255,
+				40,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

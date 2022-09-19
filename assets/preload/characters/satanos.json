@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SatanosIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SatanosLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				129
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SatanosRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				126
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SatanosDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SatanosUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Satanos/Satanos",
+	"position": [
+		100,
+		310
+	],
+	"healthicon": "satanos",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		106,
+		120
+	],
+	"camera_position": [
+		-50,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "exampleStage",
+		"player1": "bf",
+		"player2": "burnt sonic",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"HideHud",
+						"9",
+						""
+					]
+				]
+			],
+			[
+				28425,
+				[
+					[
+						"Change Scroll Speed",
+						"1.23",
+						"0.0001"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.97",
+						"0.000001"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Scroll Speed",
+						"1.23",
+						"0.0001"
+					]
+				]
+			],
+			[
+				86100,
+				[
+					[
+						"Change Scroll Speed",
+						"0.97",
+						"0.000000"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.23",
+						"0.0001"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0.000001"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Scroll Speed",
+						"0.97",
+						"0.0001"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "lord x fate",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "burning"
+	}
+}

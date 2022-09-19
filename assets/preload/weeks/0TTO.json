@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"triple-trouble",
+			"sonicexe",
+			[
+				0,
+				40,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"static",
+		"tt",
+		"ohboy"
+	],
+	"weekName": ""
+}

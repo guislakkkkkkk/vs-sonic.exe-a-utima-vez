@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "Black",
+		"player1": "bf",
+		"player2": "exe",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set_Health",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"0, 0, 0, 0, 1, 333"
+					],
+					[
+						"MoveArrow",
+						"1",
+						"0, 0, 0, 0, 1, 333"
+					],
+					[
+						"MoveArrow",
+						"2",
+						"0, 0, 0, 0, 1, 333"
+					],
+					[
+						"MoveArrow",
+						"3",
+						"0, 0, 0, 0, 1, 333"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFEXE",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "black-sun"
+	}
+}

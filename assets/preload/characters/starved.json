@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				340
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Starved Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Starved Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				261,
+				339
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Starved Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Starved Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				340
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Starved Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Starved/Starved",
+	"position": [
+		80,
+		90
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		-440,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

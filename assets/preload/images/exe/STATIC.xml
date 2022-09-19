@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="STATIC.png">
+<SubTexture name="STATIC0000" x="0" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0001" x="480" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0002" x="0" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0003" x="480" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0004" x="0" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0005" x="480" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0006" x="960" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0007" x="960" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0008" x="960" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0009" x="0" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="STATIC0010" x="480" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+</TextureAtlas>

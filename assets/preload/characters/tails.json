@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				84,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic.Exe/tail-sex-e",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		115,
+		115
+	],
+	"camera_position": [
+		-140,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

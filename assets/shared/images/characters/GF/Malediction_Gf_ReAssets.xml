@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Malediction_Gf_ReReAssets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MD-GF IDLE0000" x="0" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0001" x="373" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0002" x="746" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0003" x="1119" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0004" x="1119" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0005" x="1492" y="0" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0006" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0007" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0008" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0009" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0010" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0011" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0012" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0013" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0014" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0015" x="373" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0016" x="746" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0017" x="1119" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0018" x="1492" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0019" x="1492" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0020" x="0" y="1230" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0021" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0022" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0023" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0024" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0025" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0026" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0027" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0028" x="0" y="615" width="373" height="615"/>
+	<SubTexture name="MD-GF IDLE0029" x="0" y="615" width="373" height="615"/>
+</TextureAtlas>

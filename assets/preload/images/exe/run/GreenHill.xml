@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GreenHill.png">
+<SubTexture name="GreenHill0000" x="0" y="0" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+<SubTexture name="GreenHill0001" x="257" y="0" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+<SubTexture name="GreenHill0002" x="0" y="184" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+<SubTexture name="GreenHill0003" x="257" y="184" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+<SubTexture name="GreenHill0004" x="514" y="0" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+<SubTexture name="GreenHill0005" x="514" y="184" width="257" height="184" frameX="0" frameY="0" frameWidth="257" frameHeight="184" />
+</TextureAtlas>

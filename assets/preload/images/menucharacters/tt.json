@@ -1,0 +1,10 @@
+{
+	"idle_anim": "tt idle",
+	"confirm_anim": "tt idle",
+	"position": [
+		171,
+		90
+	],
+	"scale": 0.75,
+	"image": "tt"
+}

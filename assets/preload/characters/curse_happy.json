@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				36,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-44,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				42,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-93,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				27
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curse/hap_curse",
+	"position": [
+		130,
+		160
+	],
+	"healthicon": "curse-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		59,
+		113
+	],
+	"camera_position": [
+		-110,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

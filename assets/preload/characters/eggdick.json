@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eggman-soul left"
+		},
+		{
+			"offsets": [
+				33,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eggman-soul down"
+		},
+		{
+			"offsets": [
+				-31,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eggman-soul up"
+		},
+		{
+			"offsets": [
+				25,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eggman-soul right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eggman-soul idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic.Exe/huevos",
+	"position": [
+		-450,
+		-250
+	],
+	"healthicon": "dick",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		80,
+		94
+	],
+	"camera_position": [
+		10,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "chaotix",
+		"player1": "chaotix_bf",
+		"player2": "chaotix_faker",
+		"player3": null,
+		"events": [
+			[
+				74032.2580645162,
+				[
+					[
+						"Screen Shake",
+						"16,0.0010",
+						"16,0.0010"
+					]
+				]
+			],
+			[
+				74129.0322580646,
+				[
+					[
+						"Asbel",
+						"anim",
+						""
+					]
+				]
+			],
+			[
+				88838.7096774195,
+				[
+					[
+						"Change Character",
+						"dad",
+						"chaotix2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "my-horizon"
+	}
+}

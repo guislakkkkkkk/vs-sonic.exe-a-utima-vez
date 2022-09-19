@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SoniQuemado.png">
+<SubTexture name="idle0000" x="0" y="0" width="36" height="48" frameX="-3" frameY="-6" frameWidth="35" frameHeight="50" />
+<SubTexture name="idle0001" x="36" y="0" width="35" height="48" frameX="-4" frameY="-6" frameWidth="35" frameHeight="50" />
+<SubTexture name="idle0002" x="71" y="0" width="35" height="47" frameX="-4" frameY="-7" frameWidth="35" frameHeight="50" />
+<SubTexture name="idle0003" x="0" y="48" width="36" height="45" frameX="-4" frameY="-9" frameWidth="35" frameHeight="50" />
+<SubTexture name="idle0004" x="71" y="0" width="35" height="47" frameX="-4" frameY="-7" frameWidth="35" frameHeight="50" />
+<SubTexture name="left0000" x="36" y="48" width="43" height="46" frameX="-6" frameY="-10" frameWidth="45" frameHeight="50" />
+<SubTexture name="left0001" x="79" y="48" width="43" height="46" frameX="-6" frameY="-9" frameWidth="45" frameHeight="50" />
+<SubTexture name="down0000" x="0" y="94" width="45" height="46" frameX="-11" frameY="-7" frameWidth="60" frameHeight="50" />
+<SubTexture name="down0001" x="45" y="94" width="45" height="45" frameX="-11" frameY="-8" frameWidth="60" frameHeight="50" />
+<SubTexture name="up0000" x="90" y="94" width="36" height="50" frameX="-4" frameY="-6" frameWidth="40" frameHeight="50" />
+<SubTexture name="up0001" x="0" y="144" width="36" height="49" frameX="-4" frameY="-7" frameWidth="40" frameHeight="50" />
+<SubTexture name="right0000" x="36" y="144" width="45" height="48" frameX="-7" frameY="-4" frameWidth="45" frameHeight="45" />
+<SubTexture name="right0001" x="81" y="144" width="43" height="48" frameX="-8" frameY="-4" frameWidth="45" frameHeight="45" />
+</TextureAtlas>

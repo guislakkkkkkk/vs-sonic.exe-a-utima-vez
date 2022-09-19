@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"static",
+		"ts",
+		"ohboy"
+	],
+	"songs": [
+		[
+			"too slow",
+			"sonicexe",
+			[
+				0,
+				40,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}
