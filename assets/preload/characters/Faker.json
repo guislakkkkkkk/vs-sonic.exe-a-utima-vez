@@ -62,7 +62,7 @@
 		10,
 		200
 	],
-	"healthicon": "Faker",
+	"healthicon": "faker",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
