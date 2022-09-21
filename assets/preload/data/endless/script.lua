@@ -47,7 +47,7 @@ end
 
 function onCountdownStarted()
 setProperty('scoreTxt.visible', true);
-setProperty('timeTxt.visible',true)
+setProperty('timeTxt.visible',false)
 if not downscroll then
 noteTweenY("asa", 0, 0, 1, "linear")
 noteTweenY("bve", 1, 0, 1, "linear")
