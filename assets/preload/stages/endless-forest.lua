@@ -1,6 +1,6 @@
 function onCreate()
 
-addLuaScript('data/tutorial/healthbars/healthbarMajin')
+addLuaScript('data/tutorial/healthbars/majinbar')
 addLuaScript('data/tutorial/COMPLEMENTO')
 addLuaScript('data/tutorial/Intro')
 
