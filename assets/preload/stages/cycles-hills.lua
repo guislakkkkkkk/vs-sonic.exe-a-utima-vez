@@ -25,7 +25,7 @@ addLuaSprite('WeirdAssFlower_Assets', false);
 scaleObject('WeirdAssFlower_Assets', 0.8, 0.8)   
 
 makeLuaSprite('Lord', 'exe/Lord', 0, 0);
-addLuaSprite('Lord', false);
+addLuaSprite('Lord', true);
 scaleObject('Lord', 1, 1) 
 setObjectCamera('Lord', 'hud');
 end

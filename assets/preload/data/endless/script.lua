@@ -19,13 +19,13 @@ addLuaText('Scoreado', true);
 setObjectCamera('Scoreado', 'hud');
 
 makeLuaSprite('Majin2', 'sonicUI/Majin2', -300, -70);
-addLuaSprite('Majin2', false);
+addLuaSprite('Majin2', true);
 scaleObject('Majin2', 1.78, 1.68) 
 setObjectCamera('Majin2', 'other');
 setBlendMode('Majin2', 'MULTIPLY')
 
 makeLuaSprite('Majin', 'sonicUI/Majin', -300, -70);
-addLuaSprite('Majin', false);
+addLuaSprite('Majin', true);
 scaleObject('Majin', 1.78, 1.68) 
 setObjectCamera('Majin', 'other');
 
@@ -35,19 +35,19 @@ scaleObject('infi', 1, 1)
 setObjectCamera('infi', 'hud');
 
 makeLuaSprite('japo', 'sonicUI/japo', 430, 734);
-addLuaSprite('japo', false);
+addLuaSprite('japo', true);
 scaleObject('japo', 0.5, 0.5) 
 setObjectCamera('japo', 'hud');
 
 makeLuaSprite('japo2', 'sonicUI/japo2', 620, 722);
-addLuaSprite('japo2', false);
+addLuaSprite('japo2', true);
 scaleObject('japo2', 0.5, 0.5) 
 setObjectCamera('japo2', 'hud');
 end
 
 function onCountdownStarted()
-setProperty('scoreTxt.visible', false);
-setProperty('timeTxt.visible',false)
+setProperty('scoreTxt.visible', true);
+setProperty('timeTxt.visible',true)
 if not downscroll then
 noteTweenY("asa", 0, 0, 1, "linear")
 noteTweenY("bve", 1, 0, 1, "linear")

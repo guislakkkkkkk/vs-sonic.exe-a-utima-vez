@@ -59,7 +59,7 @@ addLuaSprite('encore', false);
 
 
 makeLuaSprite('Grad', 'Grad', 0, 100);
-addLuaSprite('Grad', false);
+addLuaSprite('Grad', true);
 scaleObject('Grad', 2, 2) 
 setObjectCamera('Grad', 'hud');
 setBlendMode('Grad', 'ALPHA')

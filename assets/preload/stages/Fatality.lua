@@ -15,28 +15,28 @@ addAnimationByPrefix('truefatalstage', 'truefatalstage', 'idle', 16, true);
 objectPlayAnimation('truefatalstage', 'truefatalstage', true)
 scaleLuaSprite('truefatalstage', 4, 4);
 setProperty('truefatalstage.antialiasing', false);
-addLuaSprite('truefatalstage', false);
+addLuaSprite('truefatalstage', true);
 
 makeAnimatedLuaSprite('domain2', 'exe/fatal/domain2', -530, -150);
 addAnimationByPrefix('domain2', 'domain2', 'idle', 16, true);  
 objectPlayAnimation('domain2', 'domain2', true)
 scaleLuaSprite('domain2', 3.2, 3.1);
 setProperty('domain2.antialiasing', false);
-addLuaSprite('domain2', false);
+addLuaSprite('domain2', true);
 
 makeAnimatedLuaSprite('domain', 'exe/fatal/domain', -530, -100);
 addAnimationByPrefix('domain', 'domain', 'idle', 16, true);  
 objectPlayAnimation('domain', 'domain', true)
 scaleLuaSprite('domain', 3.2, 3);
 setProperty('domain.antialiasing', false);
-addLuaSprite('domain', false);
+addLuaSprite('domain', true);
 
 makeAnimatedLuaSprite('launchbase', 'exe/fatal/launchbase', -530, -415);
 addAnimationByPrefix('launchbase', 'launchbase', 'idle', 16, true);  
 objectPlayAnimation('launchbase', 'launchbase', true)
 scaleLuaSprite('launchbase', 4, 4);
 setProperty('launchbase.antialiasing', false);
-addLuaSprite('launchbase', false);
+addLuaSprite('launchbase', true);
 
 setPropertyFromClass('flixel.FlxG', 'mouse.visible', true);
 
@@ -67,21 +67,21 @@ end
 
 function onCountdownTick(swagCounter)
 if swagCounter == 1 then
-	setProperty('countdownReady.visible', false)
+	setProperty('countdownReady.visible', true)
 	makeLuaSprite('ready', 'exe/cd/fatalReady', screenWidth / 2 - 369, screenHeight / 2 - 185);
 	setObjectCamera('ready','other');
 	doTweenAlpha('elpepe', 'ready', 0, crochet / 1000, 'cubeInOut');
 	addLuaSprite('ready', true);	
 end	
 if swagCounter == 2 then
-	setProperty('countdownSet.visible', false)
+	setProperty('countdownSet.visible', true)
 	makeLuaSprite('set', 'exe/cd/fatalSet', screenWidth / 2 - 330, screenHeight / 2 - 185);
 	setObjectCamera('set','other');
 	doTweenAlpha('elpepe', 'set', 0, crochet / 1000, 'cubeInOut');
 	addLuaSprite('set', true);
 end	
 if swagCounter == 3 then
-	setProperty('countdownGo.visible', false)
+	setProperty('countdownGo.visible', true)
 	makeLuaSprite('GO', 'exe/cd/fatalGo', screenWidth / 2 - 289, screenHeight / 2 - 215);
 	setObjectCamera('GO','other');
 	doTweenAlpha('elpepe', 'GO', 0, crochet / 1000, 'cubeInOut');
