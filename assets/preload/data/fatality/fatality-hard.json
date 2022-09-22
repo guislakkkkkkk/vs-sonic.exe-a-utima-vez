@@ -9049,7 +9049,7 @@
 		"player2": "fatal-sonic",
 		"player3": null,
 		"song": "Fatality",
-		"stage": "fatality",
+		"stage": "Fatality",
 		"needsVoices": true,
 		"validScore": true,
 		"arrowSkin": "pixelnotas",

@@ -4,7 +4,7 @@ function onCreate()
 
     setProperty('cameraSpeed', 1.1)
 
-    makeLuaSprite('BG', 'exe/Phase3/Normal/BG', -550, -200);
+    makeLuaSprite('BG', 'exe/Phase3/normal/BG', -550, -200);
     setScrollFactor('BG', 1, 1);
 	scaleLuaSprite('BG', 2.25, 2);
 	addLuaSprite('BG', false);
