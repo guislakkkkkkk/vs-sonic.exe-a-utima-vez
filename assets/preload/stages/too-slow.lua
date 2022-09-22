@@ -2,7 +2,7 @@ function onCreate()
 
     addLuaScript('data/tutorial/splash')
     addLuaScript('data/tutorial/Intro')
-    addLuaScript('data/tutorial/healthbars/healthbar_sonic_exe')
+    addLuaScript('data/tutorial/healthbars/healthbarSonicExe')
 
 	makeLuaSprite('BGSky', 'exe/PolishedP1/BGSky', -550, -200);
 	setScrollFactor('BGSky', 0.5, 0.5);
