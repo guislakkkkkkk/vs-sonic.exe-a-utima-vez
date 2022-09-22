@@ -15,28 +15,28 @@ addAnimationByPrefix('truefatalstage', 'truefatalstage', 'idle', 16, true);
 objectPlayAnimation('truefatalstage', 'truefatalstage', true)
 scaleLuaSprite('truefatalstage', 4, 4);
 setProperty('truefatalstage.antialiasing', false);
-addLuaSprite('truefatalstage', true);
+addLuaSprite('truefatalstage', false);
 
 makeAnimatedLuaSprite('domain2', 'exe/fatal/domain2', -530, -150);
 addAnimationByPrefix('domain2', 'domain2', 'idle', 16, true);  
 objectPlayAnimation('domain2', 'domain2', true)
 scaleLuaSprite('domain2', 3.2, 3.1);
 setProperty('domain2.antialiasing', false);
-addLuaSprite('domain2', true);
+addLuaSprite('domain2', false);
 
 makeAnimatedLuaSprite('domain', 'exe/fatal/domain', -530, -100);
 addAnimationByPrefix('domain', 'domain', 'idle', 16, true);  
 objectPlayAnimation('domain', 'domain', true)
 scaleLuaSprite('domain', 3.2, 3);
 setProperty('domain.antialiasing', false);
-addLuaSprite('domain', true);
+addLuaSprite('domain', false);
 
 makeAnimatedLuaSprite('launchbase', 'exe/fatal/launchbase', -530, -415);
 addAnimationByPrefix('launchbase', 'launchbase', 'idle', 16, true);  
 objectPlayAnimation('launchbase', 'launchbase', true)
 scaleLuaSprite('launchbase', 4, 4);
 setProperty('launchbase.antialiasing', false);
-addLuaSprite('launchbase', true);
+addLuaSprite('launchbase', false);
 
 setPropertyFromClass('flixel.FlxG', 'mouse.visible', true);
 

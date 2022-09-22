@@ -1,5 +1,6 @@
 function onCreate()
-addLuaScript('data/tutorial/huds/LordXHud')
+  addLuaScript('sonicUI/lordx/lord')
+  addLuaScript('sonicUI/lordx/tiempojuegouwu')
 
 addCharacterToList('LordX-EncoreF', 'dad') 
 addCharacterToList('lord_x_fate', 'dad') 

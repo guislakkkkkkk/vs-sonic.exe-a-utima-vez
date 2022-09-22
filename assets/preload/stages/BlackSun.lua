@@ -8,9 +8,9 @@ objectPlayAnimation('Exe', 'Exe', true);
 addLuaSprite('Exe', false);
 scaleObject('Exe', 1.1, 1.1)  
 
-makeLuaSprite('tailscorpse', 'exe/fakerBG/tailscorpse',	200, 425);
-addLuaSprite('tailscorpse', false);
-scaleObject('tailscorpse', 1, 1)
+makeLuaSprite('TailsCorpse', 'exe/fakerBG/TailsCorpse',	200, 425);
+addLuaSprite('TailsCorpse', false);
+scaleObject('TailsCorpse', 1, 1)
 
 setProperty('health', 2);
 

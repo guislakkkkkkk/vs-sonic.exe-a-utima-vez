@@ -2,7 +2,8 @@ function onCreate()
 
 addLuaScript('data/tutorial/Splash')
 addLuaScript('data/tutorial/Intro')
-addLuaScript('data/tutorial/huds/LordXHud')
+addLuaScript('sonicUI/lordx/lord')
+addLuaScript('sonicUI/lordx/tiempojuegouwu')
 
 makeLuaSprite('hills1', 'exe/LordXStage/hills1', -400, -200);
 addLuaSprite('hills1', false);

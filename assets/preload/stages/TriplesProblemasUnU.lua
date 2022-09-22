@@ -7,20 +7,20 @@ function onCreate()
     makeLuaSprite('BG', 'exe/Phase3/Normal/BG', -550, -200);
     setScrollFactor('BG', 1, 1);
 	scaleLuaSprite('BG', 2.25, 2);
-	addLuaSprite('BG', true);
+	addLuaSprite('BG', false);
 
 	makeAnimatedLuaSprite('XENOFOBIAOMG', 'exe/Phase3/xeno/XENOFOBIAOMG', -400, -200);
     addAnimationByPrefix('XENOFOBIAOMG', 'XENOFOBIAOMG', 'TitleMenuSSBG instance 1', 24, true)
     objectPlayAnimation('XENOFOBIAOMG', 'XENOFOBIAOMG', true);
-    addLuaSprite('XENOFOBIAOMG', true);
+    addLuaSprite('XENOFOBIAOMG', false);
     scaleObject('XENOFOBIAOMG', 6, 4) 
-    setProperty('XENOFOBIAOMG.visible', true) 
+    setProperty('XENOFOBIAOMG.visible', false) 
 
 	makeLuaSprite('Grass', 'exe/Phase3/xeno/Grass', -550, -200);
 	setScrollFactor('Grass', 1, 1);
 	scaleLuaSprite('Grass', 2.25, 2);
-	addLuaSprite('Grass', true);
-	setProperty('Grass.visible', true) 
+	addLuaSprite('Grass', false);
+	setProperty('Grass.visible', false) 
 
 setProperty('defaultCamZoom', 0.65) 
 end 
