@@ -1,5 +1,5 @@
-local CirculoTextura = ''
-local TextoTextura = ''
+local CirculoTextura = true
+local TextoTextura = true
 local Skip = true
 
 function onCreate()
