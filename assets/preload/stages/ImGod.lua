@@ -1,6 +1,6 @@
 function onCreate()
-addLuaScript('data/tutorial/splash')
-addLuaScript('data/tutorial/healthbars/healthbarImGod')
+addLuaScript('data/tutorial/script1')
+addLuaScript('data/tutorial/healthbars/script3')
 
 	makeLuaSprite('IM-God', 'exe/IM-God', -1050, -300);
 	setScrollFactor('IM-God', 1, 1);

@@ -1,5 +1,5 @@
 function onCreate()
-addLuaScript('data/tutorial/splash')
+addLuaScript('data/tutorial/script1')
 
 makeLuaSprite('fondo', 'exe/fakerBG/fondo', -597, -257);
 addLuaSprite('fondo', false);

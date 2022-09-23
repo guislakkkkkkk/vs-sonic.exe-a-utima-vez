@@ -1,7 +1,7 @@
 function onCreate()
 setProperty('skipCountdown', true)
 setProperty('defaultCamZoom', 1.5) 
-addLuaScript('data/tutorial/Splash')
+addLuaScript('data/tutorial/script')
 doTweenAlpha('hud', 'camHUD', 0, 0.001, 'linear')
 doTweenAlpha('game', 'camGame', 0, 0.001, 'linear')
 

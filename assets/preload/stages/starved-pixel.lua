@@ -2,7 +2,7 @@ local width = 0
 
 function onCreate()
 	
- addLuaScript('data/tutorial/splashP')
+ addLuaScript('data/tutorial/script2')
     addLuaScript('data/tutorial/pixelpack/custom1')
     addLuaScript('data/tutorial/pixelpack/custom2')
 

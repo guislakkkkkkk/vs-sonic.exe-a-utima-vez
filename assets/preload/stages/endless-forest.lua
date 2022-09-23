@@ -1,8 +1,8 @@
 function onCreate()
 
-addLuaScript('data/tutorial/healthbars/healthbarMajin')
-addLuaScript('data/tutorial/COMPLEMENTO')
-addLuaScript('data/tutorial/Intro')
+addLuaScript('data/tutorial/healthbars/script1')
+addLuaScript('data/tutorial/healthbars/script')
+addLuaScript('data/tutorial/script')
 
 makeLuaSprite('sonicFUNsky', 'exe/FunInfiniteStage/sonicFUNsky', -563, -305);
 addLuaSprite('sonicFUNsky', false);

@@ -1,5 +1,5 @@
 function onCreate()
-  addLuaScript('data/tutorial/splash')
+  addLuaScript('data/tutorial/script1')
 
 	makeLuaSprite('satanos', 'exe/satanos', -600, -300);
 	setScrollFactor('satanos', 1, 1);

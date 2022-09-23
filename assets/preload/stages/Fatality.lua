@@ -1,5 +1,5 @@
 function onCreate()
-addLuaScript('data/tutorial/splashP')
+addLuaScript('data/tutorial/script2')
 
 makeLuaSprite('bartop','',0,-30)
 makeGraphic('bartop',1280,100,'000000')

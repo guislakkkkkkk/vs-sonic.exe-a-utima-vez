@@ -1,7 +1,7 @@
 function onCreate()
 
-addLuaScript('data/tutorial/splash')
-addLuaScript('data/tutorial/Intro')
+addLuaScript('data/tutorial/script1')
+addLuaScript('data/tutorial/script')
 
 makeLuaSprite('stage', 'exe/starved/stage', -400, -450);
 setScrollFactor('stage', 1, 1);

@@ -1,6 +1,6 @@
 function onCreate()
 
-addLuaScript('data/tutorial/Splash')
+addLuaScript('data/tutorial/script1')
 
 makeAnimatedLuaSprite('Exe', 'exe/fakerBG/Exe', -735, -500);
 addAnimationByPrefix('Exe', 'Exe', 'Exe', 24, true)

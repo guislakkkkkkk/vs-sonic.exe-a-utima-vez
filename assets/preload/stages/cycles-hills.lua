@@ -1,9 +1,8 @@
 function onCreate()
 
-addLuaScript('data/tutorial/Splash')
-addLuaScript('data/tutorial/Intro')
-addLuaScript('sonicUI/lordx/lord')
-addLuaScript('sonicUI/lordx/tiempojuegouwu')
+addLuaScript('data/tutorial/script1')
+addLuaScript('data/tutorial/script')
+addLuaScript('data/tutorial/huds/script')
 
 makeLuaSprite('hills1', 'exe/LordXStage/hills1', -400, -200);
 addLuaSprite('hills1', false);
@@ -26,7 +25,7 @@ addLuaSprite('WeirdAssFlower_Assets', false);
 scaleObject('WeirdAssFlower_Assets', 0.8, 0.8)   
 
 makeLuaSprite('Lord', 'exe/Lord', 0, 0);
-addLuaSprite('Lord', true);
+addLuaSprite('Lord', false);
 scaleObject('Lord', 1, 1) 
 setObjectCamera('Lord', 'hud');
 end

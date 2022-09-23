@@ -1,10 +1,10 @@
 function onCreate()
 
-addLuaScript('data/tutorial/splashP')	
+addLuaScript('data/tutorial/script2')	
 addLuaScript('data/tutorial/pixelpack/custom1')
 addLuaScript('data/tutorial/pixelpack/custom2')
-addLuaScript('data/tutorial/healthbars/healthbarChaotix')
-addLuaScript('data/tutorial/Intro')
+addLuaScript('data/tutorial/healthbars/script4')
+addLuaScript('data/tutorial/script')
 
 addCharacterToList('chaotix-anim', 'dad') 
 

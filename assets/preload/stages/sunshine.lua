@@ -2,7 +2,7 @@ local i =0
 local yy = -690;
 
 function onCreate()
-addLuaScript('data/tutorial/splash')
+addLuaScript('data/tutorial/script1')
 
 makeLuaSprite('TailsBG', 'exe/TailsBG', -430, -115);
 addLuaSprite('TailsBG', false);
