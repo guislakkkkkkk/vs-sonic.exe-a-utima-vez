@@ -19,11 +19,11 @@ function onCreate()
   setProperty('pisoshit.antialiasing', false);
   setProperty('cielitolindo.antialiasing', false);
 
-  addLuaScript('data/tutorial/splashP')
+  addLuaScript('data/tutorial/script3')
  
 setProperty('defaultCamZoom', 0.55) 
 
-addLuaScript('data/tutorial/Intro')
+addLuaScript('data/tutorial/script')
 end
 
 function onCountdownStarted()
