@@ -19,13 +19,13 @@ addLuaText('Scoreado', true);
 setObjectCamera('Scoreado', 'hud');
 
 makeLuaSprite('majin2', 'sonicUI/majin2', -300, -70);
-addLuaSprite('majin2', false);
+addLuaSprite('majin2', true);
 scaleObject('majin2', 1.78, 1.68) 
 setObjectCamera('majin2', 'other');
 setBlendMode('majin2', 'MULTIPLY')
 
 makeLuaSprite('majin', 'sonicUI/majin', -300, -70);
-addLuaSprite('majin', false);
+addLuaSprite('majin', true);
 scaleObject('majin', 1.78, 1.68) 
 setObjectCamera('majin', 'other');
 
@@ -35,12 +35,12 @@ scaleObject('infi', 1, 1)
 setObjectCamera('infi', 'hud');
 
 makeLuaSprite('japo', 'sonicUI/japo', 430, 734);
-addLuaSprite('japo', false);
+addLuaSprite('japo', true);
 scaleObject('japo', 0.5, 0.5) 
 setObjectCamera('japo', 'hud');
 
 makeLuaSprite('japo2', 'sonicUI/japo2', 620, 722);
-addLuaSprite('japo2', false);
+addLuaSprite('japo2', true);
 scaleObject('japo2', 0.5, 0.5) 
 setObjectCamera('japo2', 'hud');
 end
