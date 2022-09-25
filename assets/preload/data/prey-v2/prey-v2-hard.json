@@ -10117,7 +10117,7 @@
 		],
 		"player2": "Furnace",
 		"player3": null,
-		"splashSkin": "",
+		"splashSkin": "BloodSplashPixel",
 		"song": "prey-v2",
 		"needsVoices": true,
 		"arrowSkin": "",
