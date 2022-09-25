@@ -30,7 +30,7 @@ scaleObject('majin', 1.78, 1.68)
 setObjectCamera('majin', 'other');
 
 makeLuaSprite('infi', 'sonicUI/infi', 576, YPOSINF);
-addLuaSprite('infi', false);
+addLuaSprite('infi', true);
 scaleObject('infi', 1, 1) 
 setObjectCamera('infi', 'hud');
 

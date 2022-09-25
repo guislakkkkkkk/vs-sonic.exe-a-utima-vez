@@ -1,44 +1,44 @@
-local CirculoTextura = true
-local TextoTextura = true
+local CirculoTextura = " "
+local TextoTextura = " "
 local Skip = true
 
 function onCreate()
 
 if songName == 'too-slow' then
-CirculoTextura = 'Exe/Inicio/Circle-too-slow';
-TextoTextura = 'Exe/Inicio/Text-too-slow';
+CirculoTextura = 'exe/Inicio/Circle-too-slow';
+TextoTextura = 'exe/Inicio/Text-too-slow';
 end
 if songName == 'too-slow-encore' then
-CirculoTextura = 'Exe/Inicio/Circle-too-slow';
-TextoTextura = 'Exe/Inicio/Text-too-slow-encore';
+CirculoTextura = 'exe/Inicio/Circle-too-slow';
+TextoTextura = 'exe/Inicio/Text-too-slow-encore';
 end
 if songName == 'you-cant-run' then
-CirculoTextura = 'Exe/Inicio/Circle-you-cant-run';
-TextoTextura = 'Exe/Inicio/Text-you-cant-run';
+CirculoTextura = 'exe/Inicio/Circle-you-cant-run';
+TextoTextura = 'exe/Inicio/Text-you-cant-run';
 end
 if songName == 'endless' then
-CirculoTextura = 'Exe/Inicio/Circle-endless';
-TextoTextura = 'Exe/Inicio/Text-endless';
+CirculoTextura = 'exe/Inicio/Circle-endless';
+TextoTextura = 'exe/Inicio/Text-endless';
 end
 if songName == 'cycles' then
-CirculoTextura = 'Exe/Inicio/Circle-cycles';
-TextoTextura = 'Exe/Inicio/Text-cycles';
+CirculoTextura = 'exe/Inicio/Circle-cycles';
+TextoTextura = 'exe/Inicio/Text-cycles';
 end
 if songName == 'execution' then
-CirculoTextura = 'Exe/Inicio/Circle-execution';
+CirculoTextura = 'exe/Inicio/Circle-execution';
 TextoTextura = 'Exe/Inicio/Text-execution';
 end
 if songName == 'fight or flight' then
-CirculoTextura = 'Exe/Inicio/Circle-fight-or-flight';
-TextoTextura = 'Exe/Inicio/Text-fight-or-flight';
+CirculoTextura = 'exe/Inicio/Circle-fight-or-flight';
+TextoTextura = 'exe/Inicio/Text-fight-or-flight';
 end
 if songName == 'burning' then
-CirculoTextura = 'Exe/Inicio/Circle-burning';
-TextoTextura = 'Exe/Inicio/Text-burning';
+CirculoTextura = 'exe/Inicio/Circle-burning';
+TextoTextura = 'exe/Inicio/Text-burning';
 end
 if songName == 'my-Horizon' then
-CirculoTextura = 'Exe/Inicio/si';
-TextoTextura = 'Exe/Inicio/si';
+CirculoTextura = 'exe/Inicio/si';
+TextoTextura = 'exe/Inicio/si';
 end
 
 makeLuaSprite('PantallaNegra', '', 0, 0)
