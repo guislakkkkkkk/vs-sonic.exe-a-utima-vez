@@ -153,8 +153,6 @@ class PauseSubState extends MusicBeatSubstate
 
 		var upP = controls.UI_UP_P;
 		var downP = controls.UI_DOWN_P;
-		var leftP = controls.UI_LEFT_P;
-		var rightP = controls.UI_RIGHT_P;
 		var accepted = controls.ACCEPT;
 
 		if (upP)
