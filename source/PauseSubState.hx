@@ -163,15 +163,6 @@ class PauseSubState extends MusicBeatSubstate
 		{
 			changeSelection(1);
 		}
-		if (leftP)
-		{
-			changeSelection(1);
-		}
-		}
-		if (rightP)
-		{
-			changeSelection(1);
-		}
 
 		var daSelected:String = menuItems[curSelected];
 		switch (daSelected)
