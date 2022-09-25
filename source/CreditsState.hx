@@ -81,7 +81,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-                        ['team VS Sonic.Exe: The Last Round'],
+                        ['Team Sonic.Exe The Last Round'],
                         ['Asbel-sen', 'nothing', 'Director/Coder/Optimizer', 'https://gamebanana.com/mods/402271', 'FFFFFF'],
                         ['Armstrong', 'nothing', 'Co-Director/Artist/Animator/El de las recargas', 'https://gamebanana.com/mods/402271', 'FFFFFF'],
                         ['xXn00bslayerXx', 'nothing', 'Artist', 'https://gamebanana.com/mods/402271', 'FFFFFF'],
