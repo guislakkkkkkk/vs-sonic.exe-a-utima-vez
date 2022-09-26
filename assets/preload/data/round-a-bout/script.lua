@@ -2,7 +2,7 @@ function onCreate()
     setProperty('timeBarBG.visible', false)
     setProperty('timeBar.visible', false)
 
-makeLuaSprite('RaB', 'Exe/Inicio/Round-a-Bout', 0, 0);
+makeLuaSprite('RaB', 'exe/Inicio/Round-a-Bout', 0, 0);
 setObjectCamera('RaB', 'other');
 scaleObject('RaB', 1, 1);
 addLuaSprite('RaB', false);

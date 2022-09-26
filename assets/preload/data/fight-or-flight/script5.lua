@@ -28,7 +28,7 @@ if songName == 'execution' then
 CirculoTextura = 'exe/Inicio/Circle-execution';
 TextoTextura = 'Exe/Inicio/Text-execution';
 end
-if songName == 'fight-or-flight' then
+if songName == 'Fight or Flight' then
 CirculoTextura = 'exe/Inicio/Circle-fight-or-flight';
 TextoTextura = 'exe/Inicio/Text-fight-or-flight';
 end

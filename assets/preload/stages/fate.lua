@@ -1,8 +1,7 @@
 function onCreate()
-  addLuaScript('sonicUI/lordx/lord')
-  addLuaScript('sonicUI/lordx/tiempojuegouwu')
+addLuaScript('data/tutorial/huds/LordXHud')
 
-addCharacterToList('LordX-Encoref', 'dad') 
+addCharacterToList('LordX-EncoreF', 'dad') 
 addCharacterToList('lord_x_fate', 'dad') 
 addCharacterToList('bf-super', 'boyfriend') 
 addCharacterToList('BF-Sad', 'boyfriend') 
@@ -60,7 +59,7 @@ addLuaSprite('encore', false);
 
 
 makeLuaSprite('Grad', 'Grad', 0, 100);
-addLuaSprite('Grad', true);
+addLuaSprite('Grad', false);
 scaleObject('Grad', 2, 2) 
 setObjectCamera('Grad', 'hud');
 setBlendMode('Grad', 'ALPHA')
