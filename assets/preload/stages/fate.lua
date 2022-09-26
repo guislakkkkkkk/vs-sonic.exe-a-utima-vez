@@ -2,7 +2,7 @@ function onCreate()
   addLuaScript('sonicUI/lordx/lord')
   addLuaScript('sonicUI/lordx/tiempojuegouwu')
 
-addCharacterToList('lordx-encoref', 'dad') 
+addCharacterToList('LordX-Encoref', 'dad') 
 addCharacterToList('lord_x_fate', 'dad') 
 addCharacterToList('bf-super', 'boyfriend') 
 addCharacterToList('BF-Sad', 'boyfriend') 

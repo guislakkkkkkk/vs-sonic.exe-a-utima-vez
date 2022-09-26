@@ -36,7 +36,7 @@ if songName == 'burning' then
 CirculoTextura = 'exe/Inicio/Circle-burning';
 TextoTextura = 'exe/Inicio/Text-burning';
 end
-if songName == 'my-Horizon' then
+if songName == 'my-horizon' then
 CirculoTextura = 'exe/Inicio/si';
 TextoTextura = 'exe/Inicio/si';
 end
