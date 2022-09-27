@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				12,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "lord x fate down"
-		},
-		{
-			"offsets": [
-				26,
-				103
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "lord x fate up"
-		},
-		{
-			"offsets": [
-				-39,
-				218
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "lord x fate right"
-		},
-		{
-			"offsets": [
-				0,
+				6,
 				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "lord x fate idle"
+			"name": "Idle instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-19,
-				-35
+				-176,
+				10
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "lord x fate left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				20,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				15,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-3,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance 1"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/LordX/lord_x_fate",
+	"image": "characters/LordX/LordXEncore",
 	"position": [
-		-150,
-		0
+		-450,
+		-250
 	],
-	"healthicon": "lordxencore",
+	"healthicon": "LordXEncore",
 	"flip_x": false,
 	"healthbar_colors": [
-		30,
-		80,
-		94
+		120,
+		115,
+		40
 	],
 	"camera_position": [
-		20,
-		90
+		-750,
+		-300
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2.1
 }
