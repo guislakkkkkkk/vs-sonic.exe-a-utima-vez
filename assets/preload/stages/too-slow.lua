@@ -1,7 +1,7 @@
 function onCreate()
 
     addLuaScript('data/tutorial/splash')
-    addLuaScript('data/tutorial/Intro')
+    addLuaScript('data/tutorial/script')
     addLuaScript('data/tutorial/healthbars/healthbarSonicExe')
 
 	makeLuaSprite('BGSky', 'exe/PolishedP1/BGSky', -550, -200);
